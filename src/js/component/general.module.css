@@ -1,0 +1,22 @@
+.centeringDivs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.soporte{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    background-color: black;
+    height: 100px;
+}
+.soporteAndShadow{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 20px 60px 40px 10px rgba(0, 0, 0, 0.5);
+}

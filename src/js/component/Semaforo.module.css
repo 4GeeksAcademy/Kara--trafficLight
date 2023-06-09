@@ -1,0 +1,53 @@
+.lightOnRed,
+.lightOnYellow,
+.lightOnGreen,
+.lightOnPurple,
+.lightOffRed,
+.lightOffYellow,
+.lightOffGreen,
+.lightOffPurple{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+  }
+
+.lightOnRed,
+.lightOnYellow,
+.lightOnGreen,
+.lightOnPurple{
+    box-shadow: 0px 0px 40px 50px rgba(225, 224, 173, 0.5);
+}
+.lightOnRed{
+    background-color: red;
+    margin: 20px 20px 20px 20px;
+  }
+
+  .lightOffRed{
+    background-color: red;
+    margin: 20px 20px 20px 20px;
+  }
+  .lightOnYellow{
+    background-color: yellow;
+    margin: 0px 20px 20px 20px;
+  }
+
+  .lightOffYellow{
+    background-color: yellow;
+    margin: 0px 20px 20px 20px;
+  }
+  .lightOnGreen{
+    background-color: green;
+    margin: 0px 20px 20px 20px;
+  }
+  .lightOffGreen{
+    background-color: green;
+    margin: 0px 20px 20px 20px;
+  }
+  .lightOnPurple{
+    background-color: purple;
+    margin: 0px 20px 20px 20px;
+  }
+  .lightOffPurple{
+    background-color: purple;
+    margin: 0px 20px 20px 20px;
+  }
